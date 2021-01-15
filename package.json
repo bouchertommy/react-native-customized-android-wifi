@@ -1,6 +1,6 @@
 {
   "name": "react-native-customized-android-wifi",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "customized version of react-native-android-wifi",
   "main": "index.js",
   "scripts": {
